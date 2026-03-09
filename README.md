@@ -115,17 +115,62 @@ After running the experiment, the following metrics were observed:
 | Average Spend      | 221.18        | 235.98     |
 | Standard Deviation | 21.36         | 36.66      |
 
+
+Around 40 out of 100 customers actively began using the credit card after receiving the new campaign offer.
+
 **Conversion Rate (Test Group):** ~40%
 
-### Effect Size
+---
 
-Cohen's d was calculated to measure practical impact.
+## Effect Size (Cohen’s d)
 
-Effect size ≈ **0.49**
+To measure the **practical magnitude of the campaign impact**, Cohen’s d was calculated.
 
-Interpretation:
+### Difference in Means
 
-**Medium practical impact**
+```
+235.98 − 221.18 = 14.80
+```
+
+### Pooled Standard Deviation
+
+Formula:
+
+```
+SD_pooled = √((SD1² + SD2²) / 2)
+```
+
+Calculation:
+
+```
+SD_pooled = √((21.36² + 36.66²) / 2)
+≈ 30
+```
+
+### Cohen’s d
+
+```
+d = (Mean_test − Mean_control) / SD_pooled
+d = 14.8 / 30 ≈ 0.49
+```
+
+### Interpretation
+
+```
+Effect size ≈ 0.49 → Medium effect
+```
+
+This indicates the campaign produced a **moderate and practically meaningful increase in customer spending**.
+
+### Experiment Validation
+
+```
+Planned effect size: 0.40
+Observed effect size: 0.49
+```
+
+Since the observed effect is **higher than the planned detectable effect**, the experiment was **properly powered and the campaign impact is meaningful**.
+
 
 ### Hypothesis Testing
 
