@@ -272,7 +272,7 @@ The campaign effect is **statistically significant**.
 
 ---
 
-# Conclusion
+### Conclusion
 
 Both methods confirm the same result:
 
@@ -282,11 +282,11 @@ Both methods confirm the same result:
 Therefore, the **new campaign significantly increased customer spending** compared to the control group.
 
 ---
-#### C)  Confidence Interval (Very Important)
+### C)  Confidence Interval (Very Important)
 
 Instead of only saying the campaign works, show **how much improvement we are confident about**.
 
-## Formula
+#### Formula
 
 ```
 CI = (mean_test − mean_control) ± Z * SE
@@ -298,7 +298,7 @@ Where
 SE = √((sd_control²/n) + (sd_test²/n))
 ```
 
-## Calculation
+#### Calculation
 
 ```
 SE = √((21.36²/100) + (36.66²/100))
@@ -327,7 +327,7 @@ CI = 14.8 ± 10.56
 CI ≈ (4.24 , 25.36)
 ```
 
-## Interpretation
+#### Interpretation
 
 We are **95% confident** that the campaign increases average customer spending by **₹4.24 to ₹25.36**.
 
@@ -339,20 +339,20 @@ This gives **decision-makers a realistic range of impact**.
 
 Recruiters love **business metrics**.
 
-## Formula
+#### Formula
 
 ```
 Lift (%) = ((Mean_test − Mean_control) / Mean_control) × 100
 ```
 
-## Calculation
+#### Calculation
 
 ```
 Lift = ((235.98 − 221.18) / 221.18) × 100
 Lift ≈ 6.69%
 ```
 
-## Interpretation
+#### Interpretation
 
 The campaign increased **average customer spending by approximately 6.7%**.
 
