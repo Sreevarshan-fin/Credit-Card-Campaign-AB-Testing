@@ -2,7 +2,7 @@
 
 # Credit Card Campaign Optimization using A/B Testing
 
-## Project Overview
+## 🔹 Project Overview
 
 A bank aimed to expand its credit card business but faced challenges with low adoption and inefficient marketing targeting.  
 This project uses transaction and customer data to identify high-potential segments and evaluate a new campaign using A/B testing.  
@@ -10,7 +10,7 @@ Statistical analysis, including hypothesis testing and effect size measurement, 
 
 ---
 
-## Problem Statement
+## 🔹 Problem Statement
 
 A growing bank wanted to expand its credit card business and increase market penetration.
 
@@ -26,7 +26,7 @@ The goal was to use **data-driven experimentation** instead of assumptions to de
 
 ---
 
-## Dataset
+## 🔹 Dataset
 
 The analysis used three related datasets:
 
@@ -49,7 +49,7 @@ These datasets allowed linking **customer demographics, credit behavior, and spe
 
 ---
 
-## Solution Approach
+## 🔹 Solution Approach
 
 The project followed **two main phases**.
 
@@ -114,7 +114,7 @@ Randomization ensured unbiased comparison between groups.
 
 ---
 
-# Results
+## 🔹 Results
 
 After running the experiment, the following metrics were observed:
 
@@ -181,7 +181,7 @@ Since the observed effect is **higher than the planned detectable effect**, the 
 
 ---
 
-## Experimental Testing
+## 🔹Experimental Testing
 
 ### a) Hypothesis Testing Using Critical Z-Value
 
@@ -272,7 +272,7 @@ The campaign effect is **statistically significant**.
 
 ---
 
-### Conclusion
+## 🔹 Conclusion
 
 Both methods confirm the same result:
 
@@ -360,7 +360,7 @@ This demonstrates a **clear financial impact of the marketing campaign**.
 
 ---
 
-# Business Impact
+## 🔹 Business Impact
 
 The experiment demonstrates how **data-driven experimentation can guide marketing strategy and reduce decision uncertainty**.
 
@@ -384,7 +384,7 @@ Based on the experimental results and statistical validation, the **new credit c
 
 ---
 
-## Tech Stack
+## 🔹 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
