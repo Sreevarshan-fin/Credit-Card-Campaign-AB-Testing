@@ -350,21 +350,21 @@ This demonstrates a **clear financial impact of the marketing campaign**.
 
 The experiment demonstrates how **data-driven experimentation can guide marketing strategy and reduce decision uncertainty**.
 
-### Key Outcomes
+👉 Key Outcomes
 
 * The new campaign increased **average customer spending by approximately 6.7%** compared to the existing campaign.
 * Statistical testing confirmed the improvement is **significant (Z = 2.75, p ≈ 0.003)**.
 * The observed **effect size (Cohen’s d ≈ 0.49)** indicates a **moderate practical impact** on customer spending behavior.
 * The **95% confidence interval (₹4.24 – ₹25.36)** suggests the campaign consistently increases average spend within this range.
 
-### Strategic Implications
+👉 Strategic Implications
 
 * The campaign successfully improves **credit card engagement and transaction activity**.
 * Targeting the **18–25 age segment** presents a strong opportunity for **market expansion**.
 * Data-driven experimentation helps **optimize marketing spend and reduce campaign risk**.
 * The validated results support **scaling the campaign strategy to a larger customer base** with further optimization.
 
-### Final Recommendation
+👉 Final Recommendation
 
 Based on the experimental results and statistical validation, the **new credit card campaign strategy should be scaled for the 18–25 customer segment**, while continuing to monitor performance and refine targeting for maximum revenue impact.
 
@@ -378,10 +378,8 @@ Based on the experimental results and statistical validation, the **new credit c
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-5C2D91?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-Statistical_Experimentation-blue?style=for-the-badge)
 
