@@ -69,13 +69,15 @@ To validate the campaign strategy, a controlled experiment was designed.
 
 ---------------
 
-#### 👉 Hypothesis
+## 1️⃣ **Experimental Design** 
+
+👉 **Hypothesis**
 
 * **Null Hypothesis (H₀)**  - The new campaign has no impact on customer behavior.
 
 * **Alternative Hypothesis (H₁)**  - The new campaign improves customer engagement and spending.
 
-#### 👉 Power Analysis
+👉 **Power Analysis**
 
 To ensure the experiment was statistically reliable:
 
@@ -87,7 +89,7 @@ Based on these parameters:
 
 **Sample Size ≈ 100 customers per group**
 
-#### 👉 Group Assignment
+👉 **Group Assignment**
 
 Customers were randomly assigned into:
 
@@ -98,7 +100,7 @@ Customers were randomly assigned into:
 Randomization ensured unbiased comparison between groups.
 
 
-## 🔹 👉 Results
+👉 Results
 
 After running the experiment, the following metrics were observed:
 
@@ -165,7 +167,7 @@ Since the observed effect is **higher than the planned detectable effect**, the 
 
 ---
 
-##  👉 Experimental Testing
+##  2️⃣ **Experimental Testing**
 
 ### a) Hypothesis Testing Using Critical Z-Value
 
