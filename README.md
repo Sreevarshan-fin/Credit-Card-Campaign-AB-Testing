@@ -52,7 +52,8 @@ These datasets allowed linking **customer demographics, credit behavior, and spe
 
 The project followed **two main phases**.
 
-#### 1. Exploratory Data Analysis (EDA)
+ 
+#### 👉 Phase 1 :  Exploratory Data Analysis (EDA)
 
 Initial analysis focused on understanding customer behavior.
 
@@ -73,7 +74,7 @@ This suggested a potential **untapped opportunity for targeted credit card campa
 
 ---
 
-#### 2. Experiment Design (A/B Testing)
+#### 👉 Phase  2 :  Experiment Design (A/B Testing)
 
  #### Campaign  architecture
  
