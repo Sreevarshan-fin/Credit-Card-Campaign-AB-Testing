@@ -73,7 +73,7 @@ A bank wanted to launch a new credit card but faced three risks:
 
 ---
 
- #### Campaign  architecture
+## 🔹 Campaign  architecture
  
  <img width="1391" height="507" alt="image" src="https://github.com/user-attachments/assets/a2bb8d02-61cc-4076-9b2b-5328a90d46af" />
 
@@ -216,4 +216,17 @@ ab-testing-campaign/
 - **Sample size constraint** — 100 per group is small; power analysis upfront ensured the test was sensitive enough to detect the target effect
 - **One-tailed vs two-tailed** — chose right-tailed test since the hypothesis was directional (improvement, not just difference)
 - **Effect size interpretation** — Cohen's d alone doesn't tell the business story; pairing it with revenue lift made the result actionable
+
+  -----
+
+  ## 🔹 Future Improvements
+
+- **Expand sample size** — current test used ~100 per group; scaling to 500+ would increase statistical power and detect smaller effect sizes more reliably
+- **Multi-variant testing (A/B/C)** — test multiple campaign variants simultaneously to find the optimal message, offer, and channel combination
+- **Automated monitoring pipeline** — track post-rollout metrics (spend, conversion, churn) continuously to detect campaign decay over time
+- **Segment drift monitoring** — monitor whether the 18–25 segment behaviour shifts seasonally or over time using PSI/CSI-style checks
+- **Sequential testing** — replace fixed-horizon testing with sequential methods to allow early stopping when significance is reached, reducing wasted spend
+- **Bayesian A/B testing** — complement frequentist approach with Bayesian inference to quantify probability of campaign being better, not just significance
+- **Long-term impact tracking** — measure 3–6 month spend retention, not just immediate uplift, to assess true campaign lifetime value
+- **Subgroup analysis** — break down results by gender, region, and spending category to identify which sub-segments drive the most lift
 
