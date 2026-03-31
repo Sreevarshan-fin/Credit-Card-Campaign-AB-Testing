@@ -1,10 +1,8 @@
 <h1 align="center">💳 Credit Card Campaign Optimization — A/B Testing</h1>
 
 <p align="center">
-From Exploratory Data Analysis (EDA) to Experimental Design for Data-Driven Decision Making
+  🚀 End-to-End Analytics | EDA → Segmentation → A/B Testing → Decision
 </p>
-
-<br>
 
 ---
 
