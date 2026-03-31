@@ -50,15 +50,17 @@ A bank wanted to launch a new credit card but faced three risks:
 
 ## 🔹 Results at a Glance
 
-| Metric | Value |
-|---|---|
-| Revenue lift | **6.7%** increase in average spend |
-| Z-score | 2.75 (> 1.645 critical) |
-| P-value | 0.003 (< 0.05) |
-| Cohen's d | 0.49 — medium practical effect |
-| 95% Confidence Interval | ₹4.24 – ₹25.36 increase per customer |
-| Conversion rate | ~40% in test group |
-| Verdict | ✅ Reject H₀ — campaign is effective |
+| Metric | Value | Interpretation |
+|---|---|---|
+| Revenue Lift | **+6.7%** | Significant increase in average customer spend due to campaign |
+| Z-score | 2.75 (> 1.645) | Test statistic exceeds critical value → strong statistical evidence |
+| P-value | 0.003 (< 0.05) | Very low probability that results occurred by chance |
+| Effect Size (Cohen’s d) | 0.49 | Medium practical impact — meaningful improvement in behaviour |
+| 95% Confidence Interval | ₹4.24 – ₹25.36 | Expected increase in spend per customer lies within this range |
+| Conversion Rate | ~40% | High campaign adoption among targeted customers |
+| Sample Size | 100 (Control) / 100 (Test) | Adequate for detecting target effect with 80% power |
+| Decision | ✅ Reject H₀ | Campaign has statistically significant positive impact |
+| Business Outcome | 🚀 Scale Campaign | Recommended rollout to 18–25 segment |
 
 ---
 
