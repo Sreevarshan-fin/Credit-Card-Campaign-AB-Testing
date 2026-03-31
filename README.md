@@ -4,6 +4,17 @@
   🚀 End-to-End Analytics | EDA → Segmentation → A/B Testing → Decision
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Programming-blue" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-orange" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical-green" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-red" />
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-teal" />
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experimentation-purple" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-Statistics-yellow" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-grey" />
+</p>
+
 ---
 
 ## 🔹 Overview
