@@ -11,6 +11,9 @@
   <img src="https://img.shields.io/badge/Seaborn-Visualization-teal" />
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Experimentation-purple" />
   <img src="https://img.shields.io/badge/Hypothesis%20Testing-Statistics-yellow" />
+  <img src="https://img.shields.io/badge/Domain-Banking-blue" />
+  <img src="https://img.shields.io/badge/Data-500K%2B-purple" />
+  <img src="https://img.shields.io/badge/Result-6.7%25%20Lift-brightgreen" />
 </p>
 
 ---
