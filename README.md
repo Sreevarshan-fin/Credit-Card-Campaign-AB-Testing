@@ -62,6 +62,9 @@ A bank wanted to launch a new credit card but faced three risks:
 | Decision | ✅ Reject H₀ | Campaign has statistically significant positive impact |
 | Business Outcome | 🚀 Scale Campaign | Recommended rollout to 18–25 segment |
 
+**Summary:**  
+The campaign delivered a statistically significant improvement in customer spending, with a 6.7% revenue lift and strong conversion rates. Both statistical and practical significance confirm that the campaign is effective and ready for scale.
+
 ---
 
 ## 🔹 Dataset
