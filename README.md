@@ -15,6 +15,14 @@
 
 ---
 
+<p align="center">
+  <a href="assets/campaign_architecture.jpg">
+    <img src="assets/campaign_architecture.jpg" width="100%"/>
+  </a>
+</p>
+
+---
+
 
 ## 🔹 Overview
 
