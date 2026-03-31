@@ -15,7 +15,9 @@
 
 ---
 
-![Campaign Architecture](assets/Campaign Architecture.jpg)
+<p align="center">
+  <img src="assets/campaign_architecture.jpg" width="800"/>
+</p>
 
 ## 🔹 Overview
 
