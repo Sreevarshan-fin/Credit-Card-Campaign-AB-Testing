@@ -16,7 +16,9 @@
 ---
 
 <p align="center">
-  <img src="assets/campaign_architecture_2.jpg" width="100%"/>
+  <a href="assets/campaign_architecture_2.jpg">
+    <img src="assets/campaign_architecture_2.jpg" width="100%"/>
+  </a>
 </p>
 
 ## 🔹 Overview
