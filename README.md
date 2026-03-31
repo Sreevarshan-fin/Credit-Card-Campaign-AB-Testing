@@ -1,4 +1,4 @@
-<h1 align="center">💳 Credit Card Campaign Optimization — A/B Testing</h1>
+<h1 align="center"> Credit Card Campaign Optimization — A/B Testing</h1>
 
 <p align="center">
   🚀 End-to-End Analytics | EDA → Segmentation → A/B Testing → Decision
