@@ -1,12 +1,10 @@
-# Credit Card Campaign Optimization — A/B Testing
+<h1 align="center">💳 Credit Card Campaign Optimization — A/B Testing</h1>
 
-![Python](https://img.shields.io/badge/Python-3.11-black)
-![Pandas](https://img.shields.io/badge/Pandas-black)
-![NumPy](https://img.shields.io/badge/NumPy-black)
-![SciPy](https://img.shields.io/badge/SciPy-black)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black)
-![Seaborn](https://img.shields.io/badge/Seaborn-black)
+<p align="center">
+From Exploratory Data Analysis (EDA) to Experimental Design for Data-Driven Decision Making
+</p>
+
+<br>
 
 ---
 
