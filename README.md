@@ -1,7 +1,7 @@
 <h1 align="center"> Credit Card Campaign Optimization — A/B Testing</h1>
 
 <p align="center">
-  <b> End-to-End Analytics | EDA → Segmentation → A/B Testing → Decision<b>
+  <b> End-to-End Analytics | EDA → Segmentation → A/B Testing → Decision <b>
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 
 ## 🚀 Key Highlights
 
-- Solved a real-world **credit card campaign optimization problem** by identifying high-potential customers for targeted marketing  
-- Performed **exploratory data analysis (EDA)** to uncover spending patterns and segment customers, identifying the **18–25 group as an untapped     high-value segment**  
+- Solved a **credit card campaign optimization problem** by identifying high-potential customers for targeted marketing   
+- Performed **EDA and segmentation**, identifying the **18–25 segment as an underserved high-value group**  
 - Designed and executed an **A/B testing experiment** to validate campaign effectiveness before large-scale rollout  
 - Conducted hypothesis testing and **rejected the null hypothesis (p < 0.05, z = 2.75)**, confirming the campaign’s positive impact  
 - Achieved a **6.7% increase in customer spending**, demonstrating measurable business value  
