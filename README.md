@@ -219,9 +219,11 @@ CI = 14.8 ± 10.56 → (4.24, 25.36)
 Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 ```
 
-👉 The campaign increased average customer spending by **6.7%** over the control group.
+👉 **Interpretation:** The campaign increased average customer spending by **6.7%** compared to the control group.
 
 </details>
+
+
 
 ---
 
