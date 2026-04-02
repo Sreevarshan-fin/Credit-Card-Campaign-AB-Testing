@@ -1,7 +1,7 @@
 <h1 align="center"> Credit Card Campaign Optimization — A/B Testing</h1>
 
 <p align="center">
-  <b>🚀 End-to-End Analytics | EDA → Segmentation → A/B Testing → Decision<b>
+  <b> End-to-End Analytics | EDA → Segmentation → A/B Testing → Decision<b>
 </p>
 
 <p align="center">
@@ -139,6 +139,8 @@ Customers randomly assigned — ensuring unbiased comparison.
 
 <details>
 <summary><b>Z-test — critical value method</b></summary>
+
+ **Z-test was used due to sufficient sample size and assumption of normally distributed sample means.**
  
 ```python
 a = (control_std**2 / sample_size)
@@ -151,6 +153,8 @@ z_score = (test_mean - control_mean) / np.sqrt(a + b)
 | Z-score | 2.7466 |
 | Critical Z (α=0.05) | 1.645 |
 | Decision | 2.75 > 1.645 → ✅ Reject H₀ |
+
+**Decision:** Since the Z-score (2.75) exceeds the critical value (1.645), we reject the null hypothesis (H₀), indicating that the campaign has a statistically significant positive impact.
 
 </details>
 
@@ -166,6 +170,8 @@ p_value = 1 - st.norm.cdf(z_score)
 | P-value | 0.0030 |
 | Threshold | 0.05 |
 | Decision | 0.003 < 0.05 → ✅ Reject H₀ |
+
+**Decision:** Since the p-value (0.003) is less than the significance level (0.05), we reject the null hypothesis, indicating that the campaign has a statistically significant positive impact.
 
 </details>
 
