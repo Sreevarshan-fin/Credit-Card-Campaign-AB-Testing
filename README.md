@@ -1,7 +1,7 @@
 <h1 align="center"> Credit Card Campaign Optimization — A/B Testing</h1>
 
 <p align="center">
-  <b> End-to-End Analytics | EDA → Segmentation → A/B Testing → Decision <b>
+  <b> End-to-End Analytics | EDA → Segmentation → A/B Testing → Decision </b>
 </p>
 
 <p align="center">
