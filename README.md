@@ -26,13 +26,6 @@
 
 ---
 
-
-## 🔹 Overview
-
-A bank aimed to expand its credit card business by identifying the right customer segment and validating a new campaign through controlled experimentation. This project uses **500K+ transaction records** to segment customers, design a statistically rigorous A/B test, and measure campaign impact using hypothesis testing, effect size, and confidence intervals.
-
----
-
 ## 🔹 Business Problem
 
 A bank wanted to launch a new credit card but faced three risks:
