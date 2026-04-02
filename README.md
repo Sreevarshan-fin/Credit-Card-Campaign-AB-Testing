@@ -18,6 +18,19 @@
 
 ---
 
+## 🚀 Key Highlights
+
+- Solved a real-world **credit card campaign optimization problem** by identifying high-potential customers for targeted marketing  
+- Performed **exploratory data analysis (EDA)** to uncover spending patterns and segment customers, identifying the **18–25 group as an untapped high-value segment**  
+- Designed and executed an **A/B testing experiment** to validate campaign effectiveness before large-scale rollout  
+- Conducted hypothesis testing and **rejected the null hypothesis (p < 0.05, z = 2.75)**, confirming the campaign’s positive impact  
+- Achieved a **6.7% increase in customer spending**, demonstrating measurable business value  
+- Quantified impact using **confidence intervals and effect size**, translating statistical results into actionable insights  
+- Achieved ~**40% conversion rate**, indicating strong adoption among targeted customers  
+- Enabled a **data-driven decision to scale the campaign**, reducing marketing risk and improving ROI
+
+---------
+  
 <p align="center">
   <a href="assets/assets/campaign_architecture.jpg">
     <img src="assets/assets/campaign_architecture.jpg" width="100%"/>
