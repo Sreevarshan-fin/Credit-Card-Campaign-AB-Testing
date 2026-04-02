@@ -251,7 +251,7 @@ ab-testing-campaign/
 
   -----
 
-  ## 🔹 Future Improvements
+## 🔹 Future Improvements
 
 - **Expand sample size** — current test used ~100 per group; scaling to 500+ would increase statistical power and detect smaller effect sizes more reliably
 - **Multi-variant testing (A/B/C)** — test multiple campaign variants simultaneously to find the optimal message, offer, and channel combination
