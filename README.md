@@ -154,7 +154,7 @@ z_score = (test_mean - control_mean) / np.sqrt(a + b)
 | Critical Z (α=0.05) | 1.645 |
 | Decision | 2.75 > 1.645 → ✅ Reject H₀ |
 
-**Decision:** Since the Z-score (2.75) exceeds the critical value (1.645), we reject the null hypothesis (H₀), indicating that the campaign has a statistically significant positive impact.
+👉 **Decision:** Since the Z-score (2.75) exceeds the critical value (1.645), we reject the null hypothesis (H₀), indicating that the campaign has a statistically significant positive impact.
 
 </details>
 
@@ -171,7 +171,7 @@ p_value = 1 - st.norm.cdf(z_score)
 | Threshold | 0.05 |
 | Decision | 0.003 < 0.05 → ✅ Reject H₀ |
 
-**Decision:** Since the p-value (0.003) is less than the significance level (0.05), we reject the null hypothesis, indicating that the campaign has a statistically significant positive impact.
+👉 **Decision:** Since the p-value (0.003) is less than the significance level (0.05), we reject the null hypothesis, indicating that the campaign has a statistically significant positive impact.
 
 </details>
 
@@ -188,7 +188,7 @@ Cohen's d = 14.8 / 30 ≈ 0.49
 |---|---|---|
 | 0.40 | 0.49 | Observed > planned — experiment properly powered ✅ |
 
-**Interpretation:** Medium practical effect — campaign produced a meaningful increase in spending.
+👉 **Interpretation:** Medium practical effect — campaign produced a meaningful increase in spending.
 
 </details>
 
@@ -201,7 +201,7 @@ ME = 1.96 × 5.39 ≈ 10.56
 CI = 14.8 ± 10.56 → (4.24, 25.36)
 ```
 
-**Interpretation:** We are 95% confident the campaign increases average spend by **₹4.24 to ₹25.36** per customer.
+👉 **Interpretation:** We are 95% confident the campaign increases average spend by **₹4.24 to ₹25.36** per customer.
 
 </details>
 
@@ -212,7 +212,7 @@ CI = 14.8 ± 10.56 → (4.24, 25.36)
 Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 ```
 
-The campaign increased average customer spending by **6.7%** over the control group.
+👉 The campaign increased average customer spending by **6.7%** over the control group.
 
 </details>
 
