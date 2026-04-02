@@ -41,18 +41,57 @@
 
 ## 🔹 Business Problem
 
-A bank wanted to launch a new credit card but faced three risks:
+A bank planned to launch a new credit card but faced key risks:
 
-| Risk | Description |
-|---|---|
-| Low adoption | Wrong segment targeted — wasted spend |
-| Inefficient marketing | No data-driven segment validation |
-| Decision uncertainty | No statistical proof of campaign effectiveness |
+- Poor targeting → low adoption  
+- Inefficient marketing → wasted spend  
+- No statistical validation → risky decisions  
 
-**Goal:** Identify the highest-potential customer segment and prove the new campaign works before scaling.
+**Goal:** Identify the best customer segment and validate campaign effectiveness before rollout.
 
 -----
 
+## 🔹 Key Results
+
+- **+6.7% revenue lift**, indicating a clear increase in customer spending  
+- **P-value = 0.003** and **Z = 2.75** confirm statistically significant impact  
+- **Effect size (0.49)** shows meaningful practical improvement  
+- **95% CI: ₹4.24 – ₹25.36** provides a realistic range of expected revenue gain  
+- **~40% conversion rate** demonstrates strong campaign adoption  
+
+**Summary:**  
+The campaign delivers statistically significant and practically meaningful improvement in customer spending.
+
+---
+
+## 🔹 Business Impact
+
+- Increased customer spend through targeted campaign execution  
+- Strong adoption validates effectiveness of segment selection  
+- Quantified impact enables reliable revenue forecasting  
+
+---
+
+## 🔹 Decision Framework
+
+- Scale campaign if results are statistically significant and revenue lift is positive  
+- Re-evaluate strategy if results are inconclusive  
+
+**Trade-Off:**
+- False positive → wasted marketing spend  
+- False negative → missed revenue opportunity  
+
+---
+
+## 🔹 Final Decision
+
+Scale the campaign to the **18–25 segment**, as results show strong statistical validity and business impact.
+
+---
+
+## 🔹 Recommendation
+
+Proceed with rollout and continuously monitor performance for further optimization.
 
 ## 🔹 Results at a Glance
 
