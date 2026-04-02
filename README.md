@@ -51,47 +51,32 @@ A bank planned to launch a new credit card but faced key risks:
 
 -----
 
-## 🔹 Key Results
+## 🔹 Business Impact & Decision Insights
 
-- **+6.7% revenue lift**, indicating a clear increase in customer spending  
-- **P-value = 0.003** and **Z = 2.75** confirm statistically significant impact  
-- **Effect size (0.49)** shows meaningful practical improvement  
-- **95% CI: ₹4.24 – ₹25.36** provides a realistic range of expected revenue gain  
-- **~40% conversion rate** demonstrates strong campaign adoption  
+The A/B test demonstrates a clear improvement in customer behavior and validates the effectiveness of the new campaign.
 
-**Summary:**  
-The campaign delivers statistically significant and practically meaningful improvement in customer spending.
+- The campaign achieved a **+6.7% revenue lift**, indicating a measurable increase in average customer spending  
+- Statistical validation confirms reliability, with **P-value = 0.003** and **Z-score = 2.75**, allowing rejection of the null hypothesis  
+- The **effect size (0.49)** indicates a meaningful practical impact, not just statistical significance  
+- The **95% confidence interval (₹4.24 – ₹25.36)** provides a realistic estimate of expected increase in customer spend  
+- A **~40% conversion rate** reflects strong adoption among targeted customers  
 
----
+Overall, the campaign delivers both **statistical significance and practical business value**, making the results reliable for decision-making.
 
-## 🔹 Business Impact
+### Decision Logic
+The campaign is scaled only when results meet both conditions:
+- Statistical significance (**p-value < 0.05**)  
+- Positive business impact (revenue lift > 0)  
 
-- Increased customer spend through targeted campaign execution  
-- Strong adoption validates effectiveness of segment selection  
-- Quantified impact enables reliable revenue forecasting  
+### Trade-Off Consideration
+- **False positive:** Scaling an ineffective campaign leads to wasted marketing spend  
+- **False negative:** Rejecting an effective campaign results in missed revenue opportunity  
 
----
+### Final Decision
+Based on strong statistical evidence and measurable business impact, the campaign should be **scaled to the 18–25 segment**.
 
-## 🔹 Decision Framework
-
-- Scale campaign if results are statistically significant and revenue lift is positive  
-- Re-evaluate strategy if results are inconclusive  
-
-**Trade-Off:**
-- False positive → wasted marketing spend  
-- False negative → missed revenue opportunity  
-
----
-
-## 🔹 Final Decision
-
-Scale the campaign to the **18–25 segment**, as results show strong statistical validity and business impact.
-
----
-
-## 🔹 Recommendation
-
-Proceed with rollout and continuously monitor performance for further optimization.
+### Recommendation
+Proceed with full rollout and continuously monitor conversion rate and revenue lift to ensure sustained performance and enable further optimization.
 
 ## 🔹 Results at a Glance
 
