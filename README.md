@@ -101,7 +101,7 @@ The campaign delivered a statistically significant improvement in customer spend
 
 ---
 
-## 🔹 Campaign  architecture
+## 🔹 Campaign Architecture
  
  <img width="1391" height="507" alt="image" src="https://github.com/user-attachments/assets/a2bb8d02-61cc-4076-9b2b-5328a90d46af" />
 
@@ -148,10 +148,10 @@ b = (test_std**2 / sample_size)
 z_score = (test_mean - control_mean) / np.sqrt(a + b)
 ```
 
-| | Value |
+| Metric | Value |
 |---|---|
-| Z-score | 2.7466 |
-| Critical Z (α=0.05) | 1.645 |
+| Z-score | 2.75 |
+| Critical Z (α=0.05) | 1.64 |
 | Decision | 2.75 > 1.645 → ✅ Reject H₀ |
 
 👉 **Decision:** Since the Z-score (2.75) exceeds the critical value (1.645), we reject the null hypothesis (H₀), indicating that the campaign has a statistically significant positive impact.
@@ -165,9 +165,9 @@ z_score = (test_mean - control_mean) / np.sqrt(a + b)
 p_value = 1 - st.norm.cdf(z_score)
 ```
 
-| | Value |
+| Metric | Value |
 |---|---|
-| P-value | 0.0030 |
+| P-value | 0.003 |
 | Threshold | 0.05 |
 | Decision | 0.003 < 0.05 → ✅ Reject H₀ |
 
@@ -266,9 +266,10 @@ ab-testing-campaign/
 
   ----
 
-## Author
+---
 
-**Sree Varshan**
+**Author:** Sree Varshan  
+Data Science & AI | Machine Learning | Financial Domain  
 
-Data Science & AI | Machine Learning | Financial Domain
+⭐ If you found this project useful, feel free to star the repository.
 
