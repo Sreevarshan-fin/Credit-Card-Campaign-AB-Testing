@@ -78,23 +78,6 @@ Based on strong statistical evidence and measurable business impact, the campaig
 ### Recommendation
 Proceed with full rollout and continuously monitor conversion rate and revenue lift to ensure sustained performance and enable further optimization.
 
-## 🔹 Results at a Glance
-
-| Metric | Value | Interpretation |
-|---|---|---|
-| Revenue Lift | **+6.7%** | Significant increase in average customer spend due to campaign |
-| Z-score | 2.75 (> 1.645) | Test statistic exceeds critical value → strong statistical evidence |
-| P-value | 0.003 (< 0.05) | Very low probability that results occurred by chance |
-| Effect Size (Cohen’s d) | 0.49 | Medium practical impact — meaningful improvement in behaviour |
-| 95% Confidence Interval | ₹4.24 – ₹25.36 | Expected increase in spend per customer lies within this range |
-| Conversion Rate | ~40% | High campaign adoption among targeted customers |
-| Sample Size | 100 (Control) / 100 (Test) | Adequate for detecting target effect with 80% power |
-| Decision | ✅ Reject H₀ | Campaign has statistically significant positive impact |
-| Business Outcome | 🚀 Scale Campaign | Recommended rollout to 18–25 segment |
-
-**Summary:**  
-The campaign delivered a statistically significant improvement in customer spending, with a 6.7% revenue lift and strong conversion rates. Both statistical and practical significance confirm that the campaign is effective and ready for scale.
-
 ---
 
 ## 🔹 Dataset
@@ -239,17 +222,6 @@ Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 👉 The campaign increased average customer spending by **6.7%** over the control group.
 
 </details>
-
----
-
-## 🔹 Business Impact
-
-- **6.7% revenue lift** confirmed statistically — not just observed by chance
-- **~40% conversion rate** in test group — 40 out of 100 customers activated the card
-- **95% CI of ₹4.24–₹25.36** gives decision-makers a realistic range to forecast returns
-- Results support **full-scale rollout** of the campaign to the 18–25 segment
-
-**Recommendation:** Scale the new campaign to the 18–25 segment. Continue monitoring spend lift and conversion rate post-rollout for further optimisation.
 
 ---
 
