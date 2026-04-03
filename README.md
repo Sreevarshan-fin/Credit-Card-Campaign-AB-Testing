@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-F39C12?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20Analysis-16A085?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Effect%20Size-27AE60?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statistical%20Power-D35400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experiment%20Design-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-8E44AD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-F39C12?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20Analysis-16A085?style=flat-square" />
+  <img src="https://img.shields.io/badge/Effect%20Size-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Statistical%20Power-D35400?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experiment%20Design-2C3E50?style=flat-square" />
 </p>
+
 
 
 
@@ -252,6 +253,15 @@ Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Programming:** Python  
+- **Data Analysis & Processing:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
+- **Statistical Methods:** A/B Testing, Hypothesis Testing (Z-test, P-value), Confidence Intervals, Effect Size  
+- **Business Domain:** Banking, Customer Segmentation, Marketing Analytics
+
+  
 ## 🔹 Project Structure
 ```
 ab-testing-campaign/
