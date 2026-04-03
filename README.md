@@ -20,14 +20,15 @@
 
 ## 🚀 Key Highlights
 
-- Solved a **credit card campaign optimization problem** by identifying high-potential customers for targeted marketing   
-- Performed **EDA and segmentation**, identifying the **18–25 segment as an underserved high-value group**  
-- Designed and executed an **A/B testing experiment** to validate campaign effectiveness before large-scale rollout  
-- Conducted hypothesis testing and **rejected the null hypothesis (p < 0.05, z = 2.75)**, confirming the campaign’s positive impact  
-- Achieved a **6.7% increase in customer spending**, demonstrating measurable business value  
-- Quantified impact using **confidence intervals and effect size**, translating statistical results into actionable insights  
-- Achieved ~**40% conversion rate**, indicating strong adoption among targeted customers  
-- Enabled a **data-driven decision to scale the campaign**, reducing marketing risk and improving ROI
+- Solved a **credit card campaign optimization problem** by identifying high-potential customers for targeted marketing  
+- Performed **EDA and segmentation**, uncovering the **18–25 segment as an underserved, high-spending group**  
+- Designed and executed a controlled **A/B testing experiment** with proper sample sizing and random assignment  
+- Validated campaign effectiveness using **Z-test (Z = 2.75 > 1.645)**, rejecting H₀ and confirming statistically significant impact  
+- Confirmed statistical significance using **P-value method (p = 0.003 < 0.05)**, reinforcing reliability of results  
+- Delivered a **+6.7% revenue lift**, demonstrating measurable improvement in customer spending  
+- Quantified impact using **confidence intervals and effect size (Cohen’s d = 0.49)** to ensure practical significance  
+- Achieved ~**40% conversion rate**, indicating strong campaign adoption among targeted customers  
+- Enabled a **data-driven decision to scale the campaign**, reducing marketing risk and improving ROI  
 
 ---------
   
