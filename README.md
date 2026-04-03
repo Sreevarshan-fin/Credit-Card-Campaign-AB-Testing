@@ -147,6 +147,7 @@ Customers randomly assigned — ensuring unbiased comparison.
 <details>
 <summary><b>Z-test — critical value method</b></summary>
 
+
  **Z-test was used due to sufficient sample size and assumption of normally distributed sample means.**
  
 ```python
