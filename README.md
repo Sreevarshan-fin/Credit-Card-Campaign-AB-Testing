@@ -5,16 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Programming-blue" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-orange" />
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-red" />
-  <img src="https://img.shields.io/badge/Seaborn-Visualization-teal" />
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experimentation-purple" />
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-Statistics-yellow" />
-  <img src="https://img.shields.io/badge/Domain-Banking-blue" />
-  <img src="https://img.shields.io/badge/Data-500K%2B-purple" />
-  <img src="https://img.shields.io/badge/Result-6.7%25%20Lift-brightgreen" />
+  <img src="https://img.shields.io/badge/Python-Programming-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experimentation-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-Statistics-2C3E50?style=for-the-badge" />
 </p>
+
 
 ---
 
@@ -54,7 +52,7 @@ A bank planned to launch a new credit card but faced key risks:
 
 ## 🔹 Quantified Impact & Decision Framework
 
-The A/B test demonstrates a clear improvement in customer behavior and confirms the effectiveness of the new campaign.
+The A/B test demonstrates a clear improvement in customer behavior and confirms the effectiveness of the new campaign with statistically and commercially significant impact
 
 The results were validated using both the **Z-test (critical value method)** and the **P-value method**, ensuring statistical reliability.
 
@@ -65,6 +63,7 @@ The results were validated using both the **Z-test (critical value method)** and
 
 Both methods confirm that the campaign has a **statistically significant positive impact** on customer spending.
 
+
 ### Business Impact
 
 - **+6.7% revenue lift**, indicating a measurable increase in customer spending  
@@ -73,6 +72,8 @@ Both methods confirm that the campaign has a **statistically significant positiv
 - **~40% conversion rate** reflects strong customer adoption  
 
 These results demonstrate that the campaign is not only statistically valid but also **commercially effective**.
+
+👉 The campaign demonstrates both statistical significance and measurable business value, making it suitable for risk-aware scaling decisions.
 
 ### Decision Logic
 
