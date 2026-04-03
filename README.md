@@ -51,32 +51,46 @@ A bank planned to launch a new credit card but faced key risks:
 
 -----
 
-## 🔹 Business Impact & Decision Insights
+## 🔹 Quantified Impact & Decision Framework
 
-The A/B test demonstrates a clear improvement in customer behavior and validates the effectiveness of the new campaign.
+The A/B test demonstrates a clear improvement in customer behavior and confirms the effectiveness of the new campaign.
 
-- The campaign achieved a **+6.7% revenue lift**, indicating a measurable increase in average customer spending  
-- Statistical validation confirms reliability, with **P-value = 0.003** and **Z-score = 2.75**, allowing rejection of the null hypothesis  
-- The **effect size (0.49)** indicates a meaningful practical impact, not just statistical significance  
-- The **95% confidence interval (₹4.24 – ₹25.36)** provides a realistic estimate of expected increase in customer spend  
-- A **~40% conversion rate** reflects strong adoption among targeted customers  
+The results were validated using both the **Z-test (critical value method)** and the **P-value method**, ensuring statistical reliability.
 
-Overall, the campaign delivers both **statistical significance and practical business value**, making the results reliable for decision-making.
+### Statistical Validation
+
+- **Z-test:** Z = 2.75 > 1.645 → Reject H₀  
+- **P-value:** 0.003 < 0.05 → Reject H₀  
+
+Both methods confirm that the campaign has a **statistically significant positive impact** on customer spending.
+
+### Business Impact
+
+- **+6.7% revenue lift**, indicating a measurable increase in customer spending  
+- **Effect size (Cohen’s d = 0.49)** shows meaningful practical impact  
+- **95% confidence interval (₹4.24 – ₹25.36)** provides a realistic estimate of expected spend increase  
+- **~40% conversion rate** reflects strong customer adoption  
+
+These results demonstrate that the campaign is not only statistically valid but also **commercially effective**.
 
 ### Decision Logic
-The campaign is scaled only when results meet both conditions:
-- Statistical significance (**p-value < 0.05**)  
-- Positive business impact (revenue lift > 0)  
+
+The campaign is scaled only when:
+- Statistical significance is confirmed (**p-value < 0.05**)  
+- Positive business impact is observed (**revenue lift > 0**)  
 
 ### Trade-Off Consideration
+
 - **False positive:** Scaling an ineffective campaign leads to wasted marketing spend  
 - **False negative:** Rejecting an effective campaign results in missed revenue opportunity  
 
 ### Final Decision
-Based on strong statistical evidence and measurable business impact, the campaign should be **scaled to the 18–25 segment**.
+
+Since both statistical tests reject the null hypothesis and the campaign shows strong business impact, it should be **scaled to the 18–25 segment**.
 
 ### Recommendation
-Proceed with full rollout and continuously monitor conversion rate and revenue lift to ensure sustained performance and enable further optimization.
+
+Proceed with rollout and continuously monitor **conversion rate and revenue lift** to ensure sustained performance and enable further optimization.
 
 ---
 
