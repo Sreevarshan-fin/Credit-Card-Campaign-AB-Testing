@@ -269,18 +269,11 @@ ab-testing-campaign/
 
 ## 🔹 Future Improvements
 
-- **Expand sample size** — current test used ~100 per group; scaling to 500+ would increase statistical power and detect smaller effect sizes more reliably
-- **Multi-variant testing (A/B/C)** — test multiple campaign variants simultaneously to find the optimal message, offer, and channel combination
-- **Automated monitoring pipeline** — track post-rollout metrics (spend, conversion, churn) continuously to detect campaign decay over time
-- **Segment drift monitoring** — monitor whether the 18–25 segment behaviour shifts seasonally or over time using PSI/CSI-style checks
-- **Sequential testing** — replace fixed-horizon testing with sequential methods to allow early stopping when significance is reached, reducing wasted spend
-- **Bayesian A/B testing** — complement frequentist approach with Bayesian inference to quantify probability of campaign being better, not just significance
-- **Long-term impact tracking** — measure 3–6 month spend retention, not just immediate uplift, to assess true campaign lifetime value
-- **Subgroup analysis** — break down results by gender, region, and spending category to identify which sub-segments drive the most lift
+- Increase sample size (500+) to improve statistical power and detect smaller effect sizes more reliably  
+- Extend to **multi-variant testing (A/B/C)** to identify the most effective campaign strategy  
+- Build an **automated monitoring pipeline** to track post-rollout performance (spend, conversion, churn) and detect campaign decay  
 
   ----
-
-
 
 **Author:** Sree Varshan  
 Data Science & AI | Machine Learning | Financial Domain  
