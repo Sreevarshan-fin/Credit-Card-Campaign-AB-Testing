@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20Analysis-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Effect%20Size-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statistical%20Power-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-F39C12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Analysis-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Effect%20Size-27AE60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical%20Power-D35400?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experiment%20Design-2C3E50?style=for-the-badge" />
 </p>
+
 
 
 
