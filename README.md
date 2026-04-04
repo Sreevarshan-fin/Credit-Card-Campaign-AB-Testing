@@ -288,7 +288,7 @@ ab-testing-campaign/
 - **One-tailed vs two-tailed** — chose right-tailed test since the hypothesis was directional (improvement, not just difference)
 - **Effect size interpretation** — Cohen's d alone doesn't tell the business story; pairing it with revenue lift made the result actionable
 
-  -----
+-----
 
 ## 🚀  Future Improvements
 
@@ -296,7 +296,7 @@ ab-testing-campaign/
 - Extend to **multi-variant testing (A/B/C)** to identify the most effective campaign strategy  
 - Build an **automated monitoring pipeline** to track post-rollout performance (spend, conversion, churn) and detect campaign decay  
 
-  ----
+----
 
 **Author:** Sree Varshan  
 Data Science & AI | Machine Learning | Financial Domain  
