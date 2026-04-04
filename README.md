@@ -245,6 +245,8 @@ CI = 14.8 ± 10.56 → (4.24, 25.36)
 Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 ```
 
+**Revenue = Number of customers × Average spending per customer**
+
 👉 **Interpretation:** The campaign increased average customer spending by **6.7%** compared to the control group.
 
 </details>
