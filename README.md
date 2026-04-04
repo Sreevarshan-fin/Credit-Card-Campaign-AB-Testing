@@ -47,7 +47,7 @@
 
 ---
 
-## 🔹 Business Problem
+## 🔎 Business Problem
 
 A bank planned to launch a new credit card but faced key risks:
 
@@ -59,7 +59,7 @@ A bank planned to launch a new credit card but faced key risks:
 
 -----
 
-## 🔹 Quantified Impact & Decision Framework
+## 💹 Quantified Impact & Decision Framework
 
 The A/B test demonstrates a clear improvement in customer behavior and confirms the effectiveness of the new campaign with statistically and commercially significant impact
 
@@ -105,7 +105,7 @@ Proceed with rollout and continuously monitor **conversion rate and revenue lift
 
 ---
 
-## 🔹 Dataset
+## 📊 Dataset
 
 | Dataset | Records | Contents |
 |---|---|---|
@@ -115,7 +115,9 @@ Proceed with rollout and continuously monitor **conversion rate and revenue lift
 
 ---
 
-## 🔹 Phase 1 — EDA & Segmentation
+## ⚙️ Solution Approach
+
+### 🔹 Phase 1 — EDA & Segmentation
 
 - Cleaned and preprocessed all three datasets — handled missing values and outliers
 - Analysed spending behaviour across age groups, categories, and payment methods
@@ -133,21 +135,21 @@ Proceed with rollout and continuously monitor **conversion rate and revenue lift
 
 ---
 
-## 🔹 Campaign Architecture
+### 🔹 Campaign Architecture
  
  <img width="1391" height="507" alt="image" src="https://github.com/user-attachments/assets/a2bb8d02-61cc-4076-9b2b-5328a90d46af" />
 
 
-## 🔹 Phase 2 — Experiment Design
+### 🔹 Phase 2 — Experiment Design
 
-### Hypothesis
+#### Hypothesis
 
 | | Statement |
 |---|---|
 | H₀ | New campaign has no impact on customer behaviour |
 | H₁ | New campaign improves spending and engagement |
 
-### Power Analysis
+#### Power Analysis
 
 | Parameter | Value |
 |---|---|
@@ -156,7 +158,7 @@ Proceed with rollout and continuously monitor **conversion rate and revenue lift
 | Target effect size | 0.40 |
 | Required sample size | ~100 per group |
 
-### Group Assignment
+#### Group Assignment
 
 | Group | Treatment |
 |---|---|
@@ -167,7 +169,7 @@ Customers randomly assigned — ensuring unbiased comparison.
 
 ---
 
-## 🔹 Phase 3 — Statistical Testing
+### 🔹 Phase 3 — Statistical Testing
 
 <details>
 <summary><b>Z-test — critical value method</b></summary>
@@ -255,7 +257,7 @@ Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰  Tech Stack
 
 - **Programming:** Python  
 - **Data Analysis & Processing:** Pandas, NumPy  
@@ -264,7 +266,7 @@ Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 - **Business Domain:** Banking, Customer Segmentation, Marketing Analytics
 
   
-## 🔹 Project Structure
+## 📁 Project Structure
 ```
 ab-testing-campaign/
 │
@@ -280,7 +282,7 @@ ab-testing-campaign/
 
 ---
 
-## 🔹 Challenges
+## ⚡ Challenges
 
 - **Sample size constraint** — 100 per group is small; power analysis upfront ensured the test was sensitive enough to detect the target effect
 - **One-tailed vs two-tailed** — chose right-tailed test since the hypothesis was directional (improvement, not just difference)
@@ -288,7 +290,7 @@ ab-testing-campaign/
 
   -----
 
-## 🔹 Future Improvements
+## 🚀  Future Improvements
 
 - Increase sample size (500+) to improve statistical power and detect smaller effect sizes more reliably  
 - Extend to **multi-variant testing (A/B/C)** to identify the most effective campaign strategy  
