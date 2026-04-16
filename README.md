@@ -29,9 +29,8 @@
 
 - Solved a **credit card campaign optimization problem** by identifying high-potential customers for targeted marketing  
 - Performed **EDA and segmentation**, uncovering the **18–25 segment as an underserved, high-spending group**  
-- Designed and executed a controlled **A/B testing experiment** with proper sample sizing and random assignment  
-- Validated campaign effectiveness using **Z-test (Z = 2.75 > 1.645)**, rejecting H₀ and confirming statistically significant impact  
-- Confirmed statistical significance using **P-value method (p = 0.003 < 0.05)**, reinforcing reliability of results  
+- Designed and executed a controlled **A/B testing experiment** with proper sample sizing and random assignment
+- Validated campaign effectiveness using statistical hypothesis testing (Z = 2.75, p = 0.003 < 0.05), confirming a statistically significant positive impact
 - Delivered a **+6.7% revenue lift**, demonstrating measurable improvement in customer spending  
 - Quantified impact using **confidence intervals and effect size (Cohen’s d = 0.49)** to ensure practical significance  
 - Achieved ~**40% conversion rate**, indicating strong campaign adoption among targeted customers  
@@ -61,9 +60,7 @@ A bank planned to launch a new credit card but faced key risks:
 
 ## 💹 Quantified Impact & Decision Framework
 
-The A/B test demonstrates a clear improvement in customer behavior and confirms the effectiveness of the new campaign with statistically and commercially significant impact
-
-The results were validated using both the **Z-test (critical value method)** and the **P-value method**, ensuring statistical reliability.
+The A/B test demonstrates a clear improvement in customer behavior, showing both statistical significance and measurable business impact.
 
 ### Statistical Validation
 
@@ -80,9 +77,7 @@ Both methods confirm that the campaign has a **statistically significant positiv
 - **95% confidence interval (₹4.24 – ₹25.36)** provides a realistic estimate of expected spend increase  
 - **~40% conversion rate** reflects strong customer adoption  
 
-These results demonstrate that the campaign is not only statistically valid but also **commercially effective**.
-
-👉 The campaign demonstrates both statistical significance and measurable business value, making it suitable for risk-aware scaling decisions.
+These results demonstrate that the campaign is **both statistically significant and commercially effective**, supporting confident, data-driven scaling decisions.
 
 ### Decision Logic
 
@@ -90,6 +85,12 @@ The campaign is scaled only when:
 - Statistical significance is confirmed (**p-value < 0.05**)  
 - Positive business impact is observed (**revenue lift > 0**)  
 
+### Experiment Validity & Assumptions
+
+- Random assignment ensured unbiased comparison between control and test groups  
+- Assumes independence of observations and consistent user behavior during the experiment  
+- External factors (seasonality, promotions) were assumed constant during the test period
+  
 ### Trade-Off Consideration
 
 - **False positive:** Scaling an ineffective campaign leads to wasted marketing spend  
@@ -290,6 +291,12 @@ ab-testing-campaign/
 
 -----
 
+### 🔸 Limitations
+
+- Sample size (~100 per group) limits generalizability to larger populations  
+- Short experiment duration may not capture long-term customer behavior  
+- Results may vary across different customer segments or campaign designs
+  
 ## 🚀  Future Improvements
 
 - Increase sample size (500+) to improve statistical power and detect smaller effect sizes more reliably  
