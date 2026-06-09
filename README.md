@@ -28,7 +28,7 @@
 ## 🚀 Key Highlights
 
 - Solved a **credit card campaign optimization problem** by identifying high-potential customers for targeted marketing  
-- Performed **EDA and segmentation**, uncovering the **18–25 segment as an underserved, high-spending group**  
+- Performed **EDA and segmentation**, uncovering the **18–25 segment as an underserved, high-spending group and but low credit card adoption**  
 - Designed and executed a controlled **A/B testing experiment** with proper sample sizing and random assignment
 - Validated campaign effectiveness using statistical hypothesis testing (Z = 2.75, p = 0.003 < 0.05), confirming a statistically significant positive impact
 - Delivered a **+6.7% revenue lift**, demonstrating measurable improvement in customer spending  
