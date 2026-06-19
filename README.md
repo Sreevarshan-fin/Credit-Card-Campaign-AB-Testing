@@ -44,10 +44,6 @@ A national bank sought to increase credit card adoption and customer spending bu
 
 → Statistical testing confirmed the uplift was significant (**Z = 2.75, p = 0.003 < 0.05**), allowing confident rejection of the null hypothesis.
 
-→ Observed a **medium practical effect size (Cohen's d = 0.49)**, indicating that the improvement was both statistically and commercially meaningful.
-
-→ Established a **95% confidence interval of ₹4.24–₹25.36**, providing a realistic estimate of the expected increase in customer spending.
-
 → Recommended scaling the campaign to the **18–25 customer segment** based on the observed uplift in activation rate and spending behavior.
 
 
@@ -65,11 +61,12 @@ A national bank sought to increase credit card adoption and customer spending bu
 
 ### ⚙️ Solution Approach
 
-#### 🔹 Phase 1 — EDA & Segmentation
+#### 🔹 Phase 1 — Customer Segmentation & Opportunity Identification
 
-- Cleaned and preprocessed all three datasets — handled missing values and outliers
-- Analysed spending behaviour across age groups, categories, and payment methods
-- Segmented customers by age — identified 18–25 as highest potential
+- Cleaned and preprocessed all three datasets by imputing **missing numerical values using the median** and **categorical values using the mode**
+- Detected and treated **outliers** using **IQR and Z-score** methods to improve data quality and analysis reliability
+- Analysed spending behaviour across age groups, transaction categories, and payment methods to identify customer trends
+- Segmented customers by age and **identified the 18–25 group** as a high-potential segment with strong **spending activity but low credit card adoption**
 
 **Key finding:**
 
@@ -123,7 +120,7 @@ Customers randomly assigned — ensuring unbiased comparison.
 <summary><b>Z-test — critical value method</b></summary>
 
 
- **Z-test was used due to sufficient sample size and assumption of normally distributed sample means.**
+ **Z-test was used because both groups contained approximately 100 customers, allowing the sampling distribution of the mean to be approximated as normal.**
  
 ```python
 a = (control_std**2 / sample_size)
@@ -213,7 +210,8 @@ Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 - **Statistical Methods:** A/B Testing, Hypothesis Testing (Z-test, P-value), Confidence Intervals, Effect Size  
 - **Business Domain:** Banking, Customer Segmentation, Marketing Analytics
 
-  
+----
+
 ### 📁 Project Structure
 ```
 ab-testing-campaign/
