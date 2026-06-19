@@ -17,26 +17,7 @@
   <img src="https://img.shields.io/badge/Experiment%20Design-2C3E50?style=flat-square" />
 </p>
 
-
-
-
-
-
-
----
-
-## 🚀 Key Highlights
-
-- Solved a **credit card campaign optimization problem** by identifying high-potential customers for targeted marketing  
-- Performed **EDA and segmentation**, uncovering the **18–25 segment as an underserved, high-spending group and but low credit card adoption**  
-- Designed and executed a controlled **A/B testing experiment** with proper sample sizing and random assignment
-- Validated campaign effectiveness using statistical hypothesis testing (Z = 2.75, p = 0.003 < 0.05), confirming a statistically significant positive impact
-- Delivered a **+6.7% revenue lift**, demonstrating measurable improvement in customer spending  
-- Quantified impact using **confidence intervals and effect size (Cohen’s d = 0.49)** to ensure practical significance  
-- Achieved ~**40% conversion rate**, indicating strong campaign adoption among targeted customers  
-- Enabled a **data-driven decision to scale the campaign**, reducing marketing risk and improving ROI  
-
----------
+------
   
 <p align="center">
   <a href="assets/assets/campaign_architecture.jpg">
@@ -58,51 +39,20 @@ A bank planned to launch a new credit card but faced key risks:
 
 -----
 
-## 💹 Quantified Impact & Decision Framework
+## 💹 Business Impact
 
-The A/B test demonstrates a clear improvement in customer behavior, showing both statistical significance and measurable business impact.
+→ Achieved a **~40% higher credit card activation rate** in the treatment group compared to the control group, validating the effectiveness of the targeted acquisition strategy.
 
-### Statistical Validation
+→ Increased **average customer spending by 6.7%**, demonstrating stronger engagement from customers identified through the analytics-driven campaign.
 
-- **Z-test:** Z = 2.75 > 1.645 → Reject H₀  
-- **P-value:** 0.003 < 0.05 → Reject H₀  
+→ Statistical testing confirmed the uplift was significant (**Z = 2.75, p = 0.003 < 0.05**), allowing confident rejection of the null hypothesis.
 
-Both methods confirm that the campaign has a **statistically significant positive impact** on customer spending.
+→ Observed a **medium practical effect size (Cohen's d = 0.49)**, indicating that the improvement was both statistically and commercially meaningful.
 
+→ Established a **95% confidence interval of ₹4.24–₹25.36**, providing a realistic estimate of the expected increase in customer spending.
 
-### Business Impact
+→ Recommended scaling the campaign to the **18–25 customer segment** based on the observed uplift in activation rate and spending behavior.
 
-- **+6.7% revenue lift**, indicating a measurable increase in customer spending  
-- **Effect size (Cohen’s d = 0.49)** shows meaningful practical impact  
-- **95% confidence interval (₹4.24 – ₹25.36)** provides a realistic estimate of expected spend increase  
-- **~40% conversion rate** reflects strong customer adoption  
-
-These results demonstrate that the campaign is **both statistically significant and commercially effective**, supporting confident, data-driven scaling decisions.
-
-### Decision Logic
-
-The campaign is scaled only when:
-- Statistical significance is confirmed (**p-value < 0.05**)  
-- Positive business impact is observed (**revenue lift > 0**)  
-
-### Experiment Validity & Assumptions
-
-- Random assignment ensured unbiased comparison between control and test groups  
-- Assumes independence of observations and consistent user behavior during the experiment  
-- External factors (seasonality, promotions) were assumed constant during the test period
-  
-### Trade-Off Consideration
-
-- **False positive:** Scaling an ineffective campaign leads to wasted marketing spend  
-- **False negative:** Rejecting an effective campaign results in missed revenue opportunity  
-
-### Final Decision
-
-Since both statistical tests reject the null hypothesis and the campaign shows strong business impact, it should be **scaled to the 18–25 segment**.
-
-### Recommendation
-
-Proceed with rollout and continuously monitor **conversion rate and revenue lift** to ensure sustained performance and enable further optimization.
 
 ---
 
@@ -132,7 +82,7 @@ Proceed with rollout and continuously monitor **conversion rate and revenue lift
 | 26–40 | ~40% | Medium | Medium |
 | 40+ | ~35% | High | Low–Medium |
 
-**Insight:** The 18–25 segment is underserved — strong spenders with low card adoption = high-value untapped opportunity.
+👉  **Insight: The 18–25 segment is underserved — strong spenders with low card adoption = high-value untapped opportunity.**
 
 ---
 
