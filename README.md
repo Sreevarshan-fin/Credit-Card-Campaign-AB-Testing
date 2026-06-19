@@ -27,19 +27,16 @@
 
 ---
 
-## 🔎 Business Problem
+### 🔎 Business Problem
 
-A bank planned to launch a new credit card but faced key risks:
+A national bank sought to increase credit card adoption and customer spending but lacked a data-driven strategy for identifying the most promising customer segment. Without proper targeting and experimental validation, marketing investments could lead to low adoption rates and inefficient resource allocation.
 
-- Poor targeting → low adoption  
-- Inefficient marketing → wasted spend  
-- No statistical validation → risky decisions  
+**Goal:** Identify a high-potential customer segment, design a targeted campaign, and use A/B testing to validate its effectiveness before rollout.
 
-**Goal:** Identify the best customer segment and validate campaign effectiveness before rollout.
 
 -----
 
-## 💹 Business Impact
+### 💹 Business Impact
 
 → Achieved a **~40% higher credit card activation rate** in the treatment group compared to the control group, validating the effectiveness of the targeted acquisition strategy.
 
@@ -56,7 +53,7 @@ A bank planned to launch a new credit card but faced key risks:
 
 ---
 
-## 📊 Dataset
+### 📊 Dataset
 
 | Dataset | Records | Contents |
 |---|---|---|
@@ -66,9 +63,9 @@ A bank planned to launch a new credit card but faced key risks:
 
 ---
 
-## ⚙️ Solution Approach
+### ⚙️ Solution Approach
 
-### 🔹 Phase 1 — EDA & Segmentation
+#### 🔹 Phase 1 — EDA & Segmentation
 
 - Cleaned and preprocessed all three datasets — handled missing values and outliers
 - Analysed spending behaviour across age groups, categories, and payment methods
@@ -208,7 +205,7 @@ Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 
 ---
 
-## 🧰  Tech Stack
+### 🧰  Tech Stack
 
 - **Programming:** Python  
 - **Data Analysis & Processing:** Pandas, NumPy  
@@ -217,7 +214,7 @@ Lift = ((235.98 − 221.18) / 221.18) × 100 ≈ 6.7%
 - **Business Domain:** Banking, Customer Segmentation, Marketing Analytics
 
   
-## 📁 Project Structure
+### 📁 Project Structure
 ```
 ab-testing-campaign/
 │
@@ -233,7 +230,7 @@ ab-testing-campaign/
 
 ---
 
-## ⚡ Challenges
+### ⚡ Challenges
 
 - **Sample size constraint** — 100 per group is small; power analysis upfront ensured the test was sensitive enough to detect the target effect
 - **One-tailed vs two-tailed** — chose right-tailed test since the hypothesis was directional (improvement, not just difference)
@@ -247,7 +244,7 @@ ab-testing-campaign/
 - Short experiment duration may not capture long-term customer behavior  
 - Results may vary across different customer segments or campaign designs
   
-## 🚀  Future Improvements
+### 🚀  Future Improvements
 
 - Increase sample size (500+) to improve statistical power and detect smaller effect sizes more reliably  
 - Extend to **multi-variant testing (A/B/C)** to identify the most effective campaign strategy  
