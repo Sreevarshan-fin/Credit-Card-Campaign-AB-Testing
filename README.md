@@ -20,8 +20,8 @@
 ------
   
 <p align="center">
-  <a href="assets/assets/campaign_architecture.jpg">
-    <img src="assets/assets/campaign_architecture.jpg" width="100%"/>
+  <a href="assets/assets/ABTESTING.PNG">
+    <img src="assets/assets/ABTESTING.PNG" width="100%"/>
   </a>
 </p>
 
