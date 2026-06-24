@@ -20,8 +20,8 @@
 ------
   
 <p align="center">
-  <a href="assets/assets/ABTESTING.PNG">
-    <img src="assets/assets/ABTESTING.PNG" width="100%"/>
+  <a href="assets/assets/ABTESTING.png">
+    <img src="assets/assets/ABTESTING.png" width="100%"/>
   </a>
 </p>
 
