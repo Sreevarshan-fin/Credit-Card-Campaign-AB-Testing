@@ -38,13 +38,13 @@ A national bank sought to increase credit card adoption and customer spending bu
 
 ### 💹 Business Impact
 
-→ Achieved a **~40% higher credit card activation rate** in the treatment group compared to the control group, validating the effectiveness of the targeted acquisition strategy.
+👉 Achieved a **~40% higher credit card activation rate** in the treatment group compared to the control group, validating the effectiveness of the targeted acquisition strategy.
 
-→ Increased **average customer spending by 6.7%**, demonstrating stronger engagement from customers identified through the analytics-driven campaign.
+👉 Increased **average customer spending by 6.7%**, demonstrating stronger engagement from customers identified through the analytics-driven campaign.
 
-→ Statistical testing confirmed the uplift was significant (**Z = 2.75, p = 0.003 < 0.05**), allowing confident rejection of the null hypothesis.
+👉 Statistical testing confirmed the uplift was significant (**Z = 2.75, p = 0.003 < 0.05**), allowing confident rejection of the null hypothesis.
 
-→ Recommended scaling the campaign to the **18–25 customer segment** based on the observed uplift in activation rate and spending behavior.
+👉 Recommended scaling the campaign to the **18–25 customer segment** based on the observed uplift in activation rate and spending behavior.
 
 
 ---
