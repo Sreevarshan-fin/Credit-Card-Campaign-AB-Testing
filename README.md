@@ -21,7 +21,7 @@
   
 <p align="center">
   <a href="assets/assets/ABTESTING (1).png">
-    <img src="assets/assets/ABTESTING (1).png" width="100%"/>
+    <img src="assets/assets/ABTESTING (1).png" width="400%"/>
   </a>
 </p>
 
